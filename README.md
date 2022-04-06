@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @T-stoilov, a bachelor's degree holder of computer science. 
-- 👀 I’m interested in ... .NET my favorite language and Electronic Music good combination. 
+- 👀 I’m interested in ... .NET is my favorite language and Electro House good combination. 
 - 🌱 I’m currently learning ... C# and Unity. 
 - 💞️ I’m looking to collaborate on ... C# and Unity. 
 - 📫 How to reach me ... personal email. 
