@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... C# and Unity. 
 - 💞️ I’m looking to collaborate on ... C# and Unity. 
 - 📫 How to reach me ... at personal email. 
+- I like hitting the keys on the keyboard. 
 
 <!---
 T-stoilov/T-stoilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
