@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-stoilov, a bachelor's degree holder of computer science. I am now studying Masters degree in Cybersecurity at University Of Delaware. 
 - 👀 I’m interested in ... C# is my favorite language, .NET Framework and Electro House / Tech House / Deep House / Electronic Music good combination. 
-- 🌱 I’m currently learning ... Computer Science. C# and Unity. C++. Red Teaming. Malware Analysis. Cybersecurity. Kali Linux. 
+- 🌱 I’m currently learning ... Computer Science. C# and Unity. C++. Red Teaming. Malware Analysis. Cybersecurity. Kali Linux. Vulnerability scanners. Virtual Machines. 
 - 💞️ I’m looking to collaborate on ... C#, C++, and Unity. 
 - 📫 How to reach me ... at personal email. 
 - I like hitting the keys on the keyboard and also I am very dreamy, sometimes I can fall asleep on the keyboard. 
