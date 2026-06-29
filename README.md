@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @T-stoilov, a bachelor's degree holder of computer science from Wilmington University. I am now studying Masters degree in Cybersecurity at University Of Delaware. I also studied Computer Network Administration Program in high school. I enjoy reading books about cybersecurity, computer science, programming, computers, video games.  
+- 👋 Hi, I’m @T-stoilov, a bachelor's degree holder of computer science from Wilmington University. I am now studying Masters degree in Cybersecurity at University Of Delaware. I also studied Computer Network Administration Program in high school. I enjoy reading books about cybersecurity, computer science, programming, computers, video games. I am currently studying for COMPTIA Security + Certification. 
 - 👀 I’m interested in C#, Ruby, Python are my favorite programming languages, .NET Framework, Red Teaming, and Electro House / Tech House / Deep House / Electronic Music good combination. 
-- 🌱 I’m currently learning Computer Science, Cybersecurity, Ruby. C#, Unity, C++. Python, Cryptography, Red Teaming, Malware Analysis, Kali Linux, Parrot OS, Vulnerability Scanners, Search Engines, Virtual Machines. 
+- 🌱 I’m currently learning Computer Science, Cybersecurity, Ruby. C#, Unity, C++. Python, Cryptography, Red Teaming, Malware Analysis, Kali Linux, Parrot OS, Vulnerability Scanners, Search Engines, Virtual Machines, COMPTIA Security +. 
 - 💞️ I’m looking to collaborate on C#, C++, Pentesting, Ethical Hacking, Red Teaming and Unity. 
 - 📫 How to reach me at personal email. 
 - I like hitting the keys on the keyboard and also I am very dreamy, sometimes I can fall asleep on the keyboard. 
